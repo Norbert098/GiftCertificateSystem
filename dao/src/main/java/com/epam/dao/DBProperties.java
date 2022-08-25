@@ -13,10 +13,12 @@ import org.springframework.stereotype.Component;
 public class DBProperties {
     @Value("${jdbc.driver}")
     private String jdbcDriver;
-    @Value("${jdbc.username}")
+    //@Value("${jdbc.username}")
+    @Value("${System.getenv(PSusername)}")
     private String jdbcUserName;
     @Value("${jdbc.url}")
     private String jdbcUrl;
-    @Value("${jdbc.password}")
+    //@Value("${jdbc.password}")
+    @Value("${System.getenv(PSpassword)}")
     private String jdbcPassword;
 }

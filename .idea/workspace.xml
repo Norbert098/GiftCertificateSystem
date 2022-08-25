@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa5fec5-79f1-4d17-8814-dc548bc8a801" name="Changes" comment="" />
+    <list default="true" id="cfa5fec5-79f1-4d17-8814-dc548bc8a801" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/251cec26a106fe27dda0bbe22041712e8ca04a7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5edff41fd688e9877245c641f9aa1d06f7a6ebc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3120ef9a19409d0c2e951a20398315ae95cd211" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/esm/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/esm/connection/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/esm/connection/PropertiesEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/esm/dao/entity/EntityClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/esm/dao/util/JakasKlasa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/resources/main/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao/build/resources/main/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/dao/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/DBProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/DBProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/resources/db.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
