@@ -1,4 +1,4 @@
-package com.epam.dao;
+package com.epam.dao.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
