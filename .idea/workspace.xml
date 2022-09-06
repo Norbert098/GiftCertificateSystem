@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa5fec5-79f1-4d17-8814-dc548bc8a801" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/521e25daa94b9ea8b562205679c39f9b06fd5ea9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/dao/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/DBProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/config/DBProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/DaoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/config/DaoConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao/src/main/resources/db.properties" afterDir="false" />
-    </list>
+    <list default="true" id="cfa5fec5-79f1-4d17-8814-dc548bc8a801" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
