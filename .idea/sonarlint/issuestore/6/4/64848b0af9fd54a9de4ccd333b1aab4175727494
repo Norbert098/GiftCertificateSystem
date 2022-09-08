@@ -1,7 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ…ÌŒ
-C
-java:S1481"(Remove this unused "env" local variable.(¦——¸ùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(·Êß
-N	java:S106"9Replace this use of System.out or System.err by a logger.(³‚²¥
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¶¤†

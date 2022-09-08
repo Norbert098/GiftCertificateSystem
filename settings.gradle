@@ -3,4 +3,6 @@ include 'dao'
 include 'controller'
 include 'api'
 include 'service'
+include 'core'
+include 'model'
 
