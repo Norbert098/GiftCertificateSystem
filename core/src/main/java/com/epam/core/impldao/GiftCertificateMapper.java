@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 
 public class GiftCertificateMapper implements RowMapper<GiftCertificate> {
-    private static final SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm'Z'");
+    private final SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm'Z'");
     private static final String ID = "ID";
     private static final String NAME = "NAME";
     private static final String DESCRIPTION = "DESCRIPTION";

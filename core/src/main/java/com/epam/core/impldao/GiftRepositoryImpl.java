@@ -15,7 +15,7 @@ public class GiftRepositoryImpl implements GiftRepository {
 
     private static final String GET_ALL_CERTIFICATES = "select * from gift_certificate";
     private static final String GET_BY_ID = "select * from gift_certificate where id = ?";
-    private static final String ADD= "insert into gift_certificate (name, description, price, duration, " +
+    private static final String ADD = "insert into gift_certificate (name, description, price, duration, " +
             "create_date, last_update_date)values (?,?,?,?,?,?)";
     private static final String UPDATE = "update gift_certificate set name=?, description=?, price=?," +
             " duration=? where id=?";

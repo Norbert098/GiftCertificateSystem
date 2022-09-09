@@ -31,6 +31,8 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.h2database/h2
     testImplementation group: 'com.h2database', name: 'h2', version: '1.3.148'
+    // https://mvnrepository.com/artifact/io.zonky.test/embedded-postgres
+    implementation group: 'io.zonky.test', name: 'embedded-postgres', version: '1.0.0'
 }
 
 test {

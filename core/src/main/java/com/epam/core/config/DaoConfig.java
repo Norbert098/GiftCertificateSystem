@@ -15,6 +15,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import javax.sql.DataSource;
 
+/**
+ * Class responsible for connection with DB, through Hikari
+ */
+
 @Configuration
 @ComponentScan("com.epam")
 @EnableTransactionManagement
@@ -38,6 +42,7 @@ public class DaoConfig {
     public static PropertySourcesPlaceholderConfigurer propertyConfiguration() {
         return new PropertySourcesPlaceholderConfigurer();
     }
+
     @Bean
     public DataSource dataSource(DBProperties dbProperties) {
         HikariConfig config = new HikariConfig();
@@ -47,8 +52,9 @@ public class DaoConfig {
         config.setDriverClassName(dbProperties.getJdbcDriver());
         return new HikariDataSource(config);
     }
+
     @Bean
     public JdbcTemplate jdbcTemplate(DBProperties dbProperties) {
-        return new JdbcTemplate(dataSource(dbProperties ));
+        return new JdbcTemplate(dataSource(dbProperties));
     }
 }

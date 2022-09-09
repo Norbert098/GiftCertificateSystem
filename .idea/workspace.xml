@@ -5,60 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfa5fec5-79f1-4d17-8814-dc548bc8a801" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f8e606322c7d5e36312e15024efb1834ca1b1a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/251cec26a106fe27dda0bbe22041712e8ca04a7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29ff52b258c198e313575d0d65b231e77d066430" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ac041e11ac8961df49c5884c9110a8202eac901" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/521e25daa94b9ea8b562205679c39f9b06fd5ea9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5edff41fd688e9877245c641f9aa1d06f7a6ebc9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f0aa8b7f8ee73b904c86038c57d425ddef7f0a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5ff9a479960ad7665c1e8c3d70afaf66dd7b60d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64848b0af9fd54a9de4ccd333b1aab4175727494" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a205a8f46810ba2a7bfff3dd64b18059e7f0db34" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/abed02f21981eafbd3656edc4066455c84c43edf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/baa1f0544498e12e0d1232531f3b096f8d72cf9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed10cbfdc9e1730003681a1ad375e791c5c9c2af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f3120ef9a19409d0c2e951a20398315ae95cd211" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/build/libs/controller-0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/com/epam/controller/ControllerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/com/epam/controller/DTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/src/main/java/com/epam/controller/GiftCertificateController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/dao/DBProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/epam/dao/DBProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/dao/DaoConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/epam/dao/DaoConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/dao/GiftCertificate.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/epam/dao/GiftCertificate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/dao/GiftRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/epam/dao/GiftRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/classes/java/main/com/epam/dao/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/epam/dao/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/libs/dao-0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/dao-0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/resources/main/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/resources/main/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/resources/main/gcsDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/resources/main/gcsDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/GiftCertificate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/GiftRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/config/DBProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/config/DaoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/epam/core/config/DaoConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/entity/GiftCertificate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/java/com/epam/dao/entity/Tag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/main/resources/gcsDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/gcsDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/src/test/java/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/test/java/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/epam/core/config/ConnectionConfigurator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/epam/core/config/ConnectionConfigurator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/epam/core/config/DaoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/epam/core/config/DaoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/epam/core/impldao/GiftCertificateMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/epam/core/impldao/GiftCertificateMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/epam/core/impldao/GiftRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/epam/core/impldao/GiftRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
